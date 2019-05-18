@@ -1,7 +1,7 @@
 # Welcome to Makai DeLorme's code portfolio
 This is a collection of five assignments done throughout Spring '19's MAGD150 class, plus a bonus. The following will be brief descriptions of each article of code.
 
-### [s19magd150lab01_DeLorme] ; "Space Sketch"
+### [s19magd150lab01_DeLorme](https://github.com/SqueegeeMcGee/MAGD150-Projects/tree/gh-pages/s19magd150lab01_DeLorme) ; "Space Sketch"
   This was the first assignment of the semester, a simple but tedious list of white ellipses, forming stars and some incidental "constellations" across a solar system. The orbital ellipses was my favorite section of code to write, since it was easy and turned out nicely on the first attempt.
 
 ### s19magd150lab02_DeLorme ; "Color Composition"
