@@ -60,6 +60,7 @@ ellipse(340, 311, 2, 2);
 ellipse(317, 275, 5, 5);
 ellipse(361, 249, 3, 3);
 ellipse(374, 291, 9, 9);
+//ellipse(155, 150, 12, 15);
 // holy mother of god fINALLY DONE WITH THE STUPID ATMOSPHERE
 
 // making the dipper constellation
